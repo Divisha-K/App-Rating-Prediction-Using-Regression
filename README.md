@@ -1,1 +1,2 @@
 # App-Rating-Prediction-Using-Regression
+In this project, I developed a machine learning model to predict the app ratings available on google play store. The dataset contained 10842 observations with 13 features. I developed dummy encoded Multiple linear regerssion model to predict the app ratings using various features like App category, Reviews, Size, no. of installs, Type(Free/Paid), Genres, etc. Exploratory Data Analysis and sanity checks were performed. Performed univariate and bivariate analysis using scatter plots, box plots and histograms.
